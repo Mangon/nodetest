@@ -1,2 +1,4 @@
 # 模块依赖文件
 node_modules/
+.project
+express/static/temp/
